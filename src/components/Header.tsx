@@ -5,10 +5,13 @@ const Header = () => {
     <header className="bg-jopa-white shadow-sm border-b">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="flex items-center">
+          <div className="flex items-center space-x-3">
             <h1 className="text-2xl font-montserrat font-bold text-jopa-dark">
               Jopa.ru
             </h1>
+            <span className="bg-red-600 text-white px-2 py-1 rounded text-sm font-bold">
+              18+
+            </span>
           </div>
 
           <nav className="hidden md:flex space-x-8">
