@@ -6,50 +6,50 @@ const Gallery = () => {
     {
       id: 1,
       imageUrl:
-        "https://images.unsplash.com/photo-1594736797933-d0c62e9b2c14?w=400",
-      title: "Красивый закат",
-      likes: 42,
-      views: 156,
+        "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+      title: "Идеальные формы",
+      likes: 127,
+      views: 456,
     },
     {
       id: 2,
       imageUrl:
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
-      title: "Горный пейзаж",
-      likes: 38,
-      views: 142,
+        "https://images.unsplash.com/photo-1594736797933-d0c62e9b2c14?w=400",
+      title: "Соблазнительные изгибы",
+      likes: 89,
+      views: 342,
     },
     {
       id: 3,
       imageUrl:
         "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=400",
-      title: "Океанские волны",
-      likes: 51,
-      views: 203,
+      title: "Спортивная попка",
+      likes: 156,
+      views: 623,
     },
     {
       id: 4,
       imageUrl:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
-      title: "Лесная тропа",
-      likes: 29,
-      views: 98,
+      title: "Пляжная красота",
+      likes: 93,
+      views: 287,
     },
     {
       id: 5,
       imageUrl:
         "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=400",
-      title: "Звездное небо",
-      likes: 67,
-      views: 298,
+      title: "Танцевальные движения",
+      likes: 112,
+      views: 398,
     },
     {
       id: 6,
       imageUrl:
         "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400",
-      title: "Туманный лес",
-      likes: 44,
-      views: 187,
+      title: "Фитнес мотивация",
+      likes: 78,
+      views: 245,
     },
   ];
 
